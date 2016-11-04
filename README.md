@@ -1,8 +1,8 @@
 # < Hello World and Jedi Name Web Page >
 
-# Pre-work - *hello_world.py*
+# Pre-work - *jedi_hello_world.py*
 
-**HELLO_WORLD** is an - write a short description.
+**JEDI_HELLO_WORLD** is an - write a short description.
 
 Submitted by: **Ben Altieri**
 
